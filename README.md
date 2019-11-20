@@ -2,14 +2,14 @@ Swift Example
 ===============================
 
 
-This plugin allows stores using the WooCommerce shopping cart system to accept cryptocurrency payments via the BitPay gateway. It only takes a few minutes to configure.
+This plugin allows developers to add BitPay payments in their mobile projects.
 
 # Requirements
 
 This plugin requires the following:
 
 * A BitPay merchant account ([Test](http://test.bitpay.com) and [Production](http://www.bitpay.com))
-* It is **HIGHLY** recommended to use a custom middleware to relay from your project to BitPay, so tokens can be stored in one location and not individual devices.
+* It is **HIGHLY** recommended to use a custom middleware to relay from your project to BitPay, so tokens can be stored in one location and not individual devices.  A Node version can be downloaded [here](https://github.com/bitpay/middleware-node)
 
 # Installation
 
